@@ -39,6 +39,11 @@ To launch SLAM node in mapping mode:
 `roslaunch my_robot mapping.launch`
 
 In folder `maps` you can find two maps created for this environment.
+Because of files oversized the limit of github, please download them from the following links:
+
+rtabmap.db [https://www.dropbox.com/s/le8ysgcfrxtdts9/rtabmap.db?dl=0] 
+
+rtabmap1.db [https://www.dropbox.com/s/mwb76rlkmjc06g8/rtabmap1.db?dl=0]
 
 *Using `rtabmap.db` file*
 
