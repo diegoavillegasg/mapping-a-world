@@ -1,5 +1,5 @@
 # Map my World Project - Robotics Udacity ND
-## RTABMap ROS package to map a world in Gazebo as well as localiz
+## RTABMap ROS package to map a world in Gazebo as well as localize the robot itself
 
 **Dependencies**
 
